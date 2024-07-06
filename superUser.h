@@ -85,13 +85,13 @@ class SuperUser{
          * @brief Shows the unapproved Kayıt's in the list
          * @return none
          */
-        void showUnapprovedKayıtList();
+        void showUnapprovedKayitList();
 
         /* void showApprovedKayıtList();
          * @brief Shows the approved Kayıt's in the list
          * @return none
          */
-        void showApprovedKayıtList();
+        void showApprovedKayitList();
 
 
     private:

@@ -101,7 +101,7 @@
      * @brief Shows the unapproved Kayıt's in the list
      * @return none
      */
-    void SuperUser::showUnapprovedKayıtList()
+    void SuperUser::showUnapprovedKayitList()
     {
         for(int i = 0; i < unapprovedSize; i++)
         {
@@ -115,7 +115,7 @@
      * @brief Shows the approved Kayıt's in the list
      * @return none
      */
-    void SuperUser::showApprovedKayıtList()
+    void SuperUser::showApprovedKayitList()
     {
         for(int i = 0; i < approvedSize; i++)
         {
